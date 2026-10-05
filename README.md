@@ -289,18 +289,6 @@ make clean
 | Randomized testing        | ✅      |
 | VCD waveform generation   | ✅      |
 
-## Future Work
-
-* Add SystemVerilog Assertions (SVA)
-* Add functional coverage
-* Complete RTL lint cleanup
-* Synthesize using Yosys
-* Perform timing analysis
-* Run the design through a SKY130 RTL-to-GDS flow
-* Analyze area, timing, and power results
-* Add byte-enable support for sub-word writes
-* Explore set-associative cache extensions
-
 ## Tools
 
 * SystemVerilog
